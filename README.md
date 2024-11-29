@@ -73,7 +73,3 @@ This script automates the installation and setup of the Reth and Lighthouse node
 - Monitor the node logs to ensure proper setup:
    - Reth: `/var/log/reth.log`
    - Lighthouse: `/var/log/lighthouse.log`
- 
-## License
-This script is open-source and provided as-is without warranty.
-> You can copy and paste the above content directly into a `README.md` file. It includes all sections formatted in Markdown, ready to use.
